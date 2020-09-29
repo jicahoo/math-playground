@@ -10,3 +10,6 @@
 * Finite Calculus: A Tutorial for **Solving Nasty Sums** https://www.cs.purdue.edu/homes/dgleich/publications/Gleich%202005%20-%20finite%20calculus.pdf 
 * Infinite sum: https://www.mathcentre.ac.uk/resources/uploaded/mc-ty-convergence-2009-1.pdf
 * Infinite sum: https://www.mathsisfun.com/algebra/infinite-series.html
+
+# Integral of 1/x
+* 可汗学院： https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-8b/v/antiderivative-of-x-1#:~:text=Integration%20goes%20the%20other%20way,ln(x)%20is%20undefined!
