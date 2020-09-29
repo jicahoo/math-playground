@@ -9,3 +9,4 @@
 # SUM
 * Finite Calculus: A Tutorial for **Solving Nasty Sums** https://www.cs.purdue.edu/homes/dgleich/publications/Gleich%202005%20-%20finite%20calculus.pdf 
 * Infinite sum: https://www.mathcentre.ac.uk/resources/uploaded/mc-ty-convergence-2009-1.pdf
+* Infinite sum: https://www.mathsisfun.com/algebra/infinite-series.html
